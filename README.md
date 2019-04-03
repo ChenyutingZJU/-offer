@@ -1,2 +1,1 @@
-# -offer
-剑指offer题解，with C++
+# 剑指offer题解，with C++
